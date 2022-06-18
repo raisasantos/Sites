@@ -1,2 +1,2 @@
 # Sites
- Um site em HTML, CSS, e responsivo
+Sites em HTML, CSS e responsivo
