@@ -1,2 +1,1 @@
-# Sites
-Sites em HTML, CSS e responsivo
+# Projeto responsivo em HTML, CSS 
